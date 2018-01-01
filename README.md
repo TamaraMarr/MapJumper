@@ -13,4 +13,4 @@ Package Manager: Yarn<br />
 
 ### Screenshots
 
-![mapjumper](https://user-images.githubusercontent.com/25713765/34471077-33d82106-ef3f-11e7-8b0c-c91651c04b65.png)
+![mapjumper](https://user-images.githubusercontent.com/25713765/34471104-9dbc1d02-ef3f-11e7-98ca-850db30be1ef.png)
