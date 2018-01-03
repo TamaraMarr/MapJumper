@@ -25,7 +25,7 @@ export default class App extends Component {
 		return (
 			<div className="container">
 				<header className="App-header">
-					<h1>API key 2
+					<h1>
 						MapJumper
 					</h1>
 				</header>
