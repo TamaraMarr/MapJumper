@@ -2,7 +2,7 @@
 
 MapJumper uses Google Maps' API to get you to the capital of a chosen country.
 
-Demo: [MapJumper](https://tamaramarr.github.io/MapJumper/).
+Demo: [MapJumper](https://tamaramarr.github.io/map-jumper/).
 
 ### Stack
 
